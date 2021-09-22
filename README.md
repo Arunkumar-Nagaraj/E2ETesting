@@ -1,5 +1,5 @@
 # Selenium-Java (for UI) - GitHub Action for CI overview
-This is an project to demonstrate QA Test how to work with Selenium cucumber and REST API for Java
+This is an project to demonstrate QA Test how to work with Selenium cucumber using Java
 
 [![Selenium & REST-API with Maven](https://github.com/actions/toolkit/workflows/Main%20workflow/badge.svg)](https://github.com/psubrambe/e2e-framwork/actions/workflows/maven.yml?query=Java+CI+with+Maven)
 #### Installation (pre-requisites)
